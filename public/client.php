@@ -54,7 +54,6 @@
       <th scope="col">Gender</th>
       <th scope="col">Occupation</th>
       <th scope="col">Educational Attainment</th>
-      <th scope="col">Purpose of Visiting</th>
       <th scope="col">Time-In</th>
       <th scope="col">Time-Out</th>
     </tr>
@@ -67,7 +66,6 @@
       <td>Male</td>
       <td>Student</td>
       <td>High School Level</td>
-      <td>NBI</td>
       <td>11:57am 11/21/2023</td>
       <td>1:00pm 11/21/2023</td>
     </tr>
@@ -78,7 +76,6 @@
       <td>Male</td>
       <td>Retired</td>
       <td>College Degree</td>
-      <td>Both</td>
       <td>11:57am 11/21/2023</td>
       <td>1:00pm 11/21/2023</td>
     </tr>
@@ -89,13 +86,37 @@
       <td>Male</td>
       <td>Employed</td>
       <td>High School Graduate</td>
-      <td>Police Clearance</td></td>
       <td>11:57am 11/21/2023</td>
       <td>1:00pm 11/21/2023</td>
     </tr>
   </tbody>
 </table>
 
+
+<br>
+<br>
+<h1>PURPOSE OF VISITING</h1>
+<table class="table">
+  <thead>
+    <tr>
+    <th scope="col">ID</th>
+    <th scope="col">Queue Number</th>
+    <th scope="col">Purpose of Visiting</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>23-422</td>
+      <td>NBI</td>
+    </tr>
+    <tr>
+    <th scope="row">1</th>
+      <td>23-424</td>
+      <td>POLICE CLEARANCE</td>
+    </tr>
+  </tbody>
+</table>
         </main>
         <!-- End of Main Content -->
 

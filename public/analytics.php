@@ -312,7 +312,7 @@
                     <p>Web-based KIOSK</p>
                 </div>
             </div>
-
+<!-- 
             <div class="reminders">
                 <div class="header">
                     <h2>Recommendations</h2>
@@ -340,10 +340,10 @@
                         
                     </div>
                     
-                </div>
+                </div> -->
 
                 <!-- predict possible client -->
-                <h4>Predict Possible Client a year!</h4>
+                <!-- <h4>Predict Possible Client a year!</h4>
 <canvas id="myChart" style="width:100%;max-width:600px"></canvas>
 
 <script>
@@ -379,7 +379,7 @@ function generateData(value, i1, i2, step = 1) {
 }
 </script>
 
-            </div>
+            </div> -->
 
         </div>
 
